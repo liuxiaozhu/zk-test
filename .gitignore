@@ -11,3 +11,5 @@
 .classpath
 .settings
 .metadata
+src/test/
+target/
